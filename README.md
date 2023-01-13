@@ -4,9 +4,7 @@ Languages Implemented
 TypeScript
 Mysql
 HTML
-CSS
 JavaScript
-
 Libraries Implemented
 Express
 Cors
