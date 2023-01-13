@@ -33,7 +33,7 @@ app.get('/customers', (req: any, res: any) => {
     if (err){
       console.log(err)
     }
-  console.log(result);
+  res.send(result);
   });
 });
 
